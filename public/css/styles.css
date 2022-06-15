@@ -1,0 +1,6 @@
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+.img-card {
+  width: 100px;
+}
